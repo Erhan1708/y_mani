@@ -1,0 +1,63 @@
+.post {
+   border: 4px solid #1cd884;
+   width: 330px;
+   padding: 40px 25px;
+}
+
+.btn {
+   border-radius: 15px;
+   padding: 7px 10px;
+   background-color: #1cd884;
+   color: white;
+   border: 0;
+   cursor: pointer;
+}
+
+.header1 {
+   font-size: 30px;
+   color: #6b6868;
+
+   
+}
+
+.desc{
+   color: #898989;
+   margin: 0;
+}
+
+.content{
+   font-family: Arial, Helvetica, sans-serif;
+   color: #898989;
+}
+
+
+
+.con{
+   padding: 30px 15px;
+   width: 340px;
+}
+.yellow{
+   background-color: #fdce02;
+   width: 500px;
+   border-radius: 13px;
+   margin-left: 275px;
+  
+   
+}
+.btn1{
+   border-radius: 11px;
+   padding: 7px 30px;
+   background-color: transparent;
+   cursor:pointer;
+}
+.black{
+   position:absolute;
+   background-color: black;
+   width: 800px ;
+   padding: 20px 0;
+}
+img{
+   position: relative;
+   width: 210px;
+   margin:150px 30px;
+}
